@@ -1,4 +1,4 @@
-package complete.reference.part.one.chap.one;
+package complete.reference.part.one.chap.two;
 
 public class IfSample {
 	
