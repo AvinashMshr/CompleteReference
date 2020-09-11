@@ -1,0 +1,8 @@
+package complete.reference.part.one.chap.one;
+
+public class ForTest {
+	public static void main(String... arg) {
+		
+	}
+
+}
